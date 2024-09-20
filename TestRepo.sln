@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TestRepo.XUnit", "TestRepo.XUnit\TestRepo.XUnit.fsproj", "{9DD25D14-1992-4BEB-8644-DDF6D7B9BB06}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TestRepo.TUnit", "TestRepo.TUnit\TestRepo.TUnit.fsproj", "{0B960D9B-60AB-4F87-9F1D-4188368E174A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DD25D14-1992-4BEB-8644-DDF6D7B9BB06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DD25D14-1992-4BEB-8644-DDF6D7B9BB06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DD25D14-1992-4BEB-8644-DDF6D7B9BB06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DD25D14-1992-4BEB-8644-DDF6D7B9BB06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B960D9B-60AB-4F87-9F1D-4188368E174A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B960D9B-60AB-4F87-9F1D-4188368E174A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B960D9B-60AB-4F87-9F1D-4188368E174A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B960D9B-60AB-4F87-9F1D-4188368E174A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
